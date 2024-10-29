@@ -102,5 +102,6 @@ rgb888_to_rgb565:
 # Write your code here.
 # You may move the "return" instruction (jalr zero, ra, 0).
     jalr zero, ra, 0
-
+    addi a0, a0,4 
+    bla bla bla               
 
